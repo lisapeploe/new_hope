@@ -1,0 +1,2 @@
+/*this is the third file which I am adding some text into*/
+for each loan: update loan with 3 columns. end. /*mmk*/
